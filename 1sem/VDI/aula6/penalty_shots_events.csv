@@ -1,0 +1,181 @@
+player,shot_seq,team,zone
+Messi,1,Inter Miami CF,CME
+Messi,2,Inter Miami CF,CeS
+Messi,3,Inter Miami CF,CMD
+Messi,4,Inter Miami CF,CSE
+Messi,5,Inter Miami CF,CeS
+Messi,6,Inter Miami CF,CSD
+Messi,7,Inter Miami CF,CME
+Messi,8,Inter Miami CF,CMD
+Messi,9,Inter Miami CF,CSE
+Messi,10,Inter Miami CF,CME
+Messi,11,Inter Miami CF,CMD
+Messi,12,Inter Miami CF,CSE
+Messi,13,Inter Miami CF,CMD
+Messi,14,Inter Miami CF,CSE
+Messi,15,Inter Miami CF,CSE
+Messi,16,Inter Miami CF,CID
+Messi,17,Inter Miami CF,CID
+Messi,18,Inter Miami CF,CMD
+Messi,19,Inter Miami CF,CeS
+Messi,20,Inter Miami CF,CSE
+Messi,21,Inter Miami CF,CMD
+Messi,22,Inter Miami CF,CME
+Messi,23,Inter Miami CF,CSE
+Messi,24,Inter Miami CF,CME
+Messi,25,Inter Miami CF,CSE
+Messi,26,Inter Miami CF,CeI
+Messi,27,Inter Miami CF,CeS
+Messi,28,Inter Miami CF,CMD
+Messi,29,Inter Miami CF,CeS
+Messi,30,Inter Miami CF,CME
+Ronaldo,1,Al-Nassr,CID
+Ronaldo,2,Al-Nassr,CIE
+Ronaldo,3,Al-Nassr,CeS
+Ronaldo,4,Al-Nassr,CSE
+Ronaldo,5,Al-Nassr,CeI
+Ronaldo,6,Al-Nassr,CMD
+Ronaldo,7,Al-Nassr,CMD
+Ronaldo,8,Al-Nassr,CIE
+Ronaldo,9,Al-Nassr,CSE
+Ronaldo,10,Al-Nassr,CSD
+Ronaldo,11,Al-Nassr,CeS
+Ronaldo,12,Al-Nassr,CeI
+Ronaldo,13,Al-Nassr,CeM
+Ronaldo,14,Al-Nassr,CeS
+Ronaldo,15,Al-Nassr,CSE
+Ronaldo,16,Al-Nassr,CeS
+Ronaldo,17,Al-Nassr,CeS
+Ronaldo,18,Al-Nassr,CMD
+Ronaldo,19,Al-Nassr,CMD
+Ronaldo,20,Al-Nassr,CID
+Ronaldo,21,Al-Nassr,CME
+Ronaldo,22,Al-Nassr,CeS
+Ronaldo,23,Al-Nassr,CMD
+Ronaldo,24,Al-Nassr,CMD
+Ronaldo,25,Al-Nassr,CME
+Ronaldo,26,Al-Nassr,CIE
+Ronaldo,27,Al-Nassr,CME
+Ronaldo,28,Al-Nassr,CME
+Ronaldo,29,Al-Nassr,CSD
+Ronaldo,30,Al-Nassr,CSE
+Trincão,1,Sporting CP,CME
+Trincão,2,Sporting CP,CID
+Trincão,3,Sporting CP,CIE
+Trincão,4,Sporting CP,CID
+Trincão,5,Sporting CP,CID
+Trincão,6,Sporting CP,CME
+Trincão,7,Sporting CP,CSD
+Trincão,8,Sporting CP,CME
+Trincão,9,Sporting CP,CMD
+Trincão,10,Sporting CP,CID
+Trincão,11,Sporting CP,CID
+Trincão,12,Sporting CP,CSE
+Trincão,13,Sporting CP,CIE
+Trincão,14,Sporting CP,CMD
+Trincão,15,Sporting CP,CME
+Trincão,16,Sporting CP,CME
+Trincão,17,Sporting CP,CME
+Trincão,18,Sporting CP,CID
+Trincão,19,Sporting CP,CME
+Trincão,20,Sporting CP,CIE
+Trincão,21,Sporting CP,CeI
+Trincão,22,Sporting CP,CME
+Trincão,23,Sporting CP,CID
+Trincão,24,Sporting CP,CID
+Trincão,25,Sporting CP,CME
+Trincão,26,Sporting CP,CIE
+Trincão,27,Sporting CP,CME
+Trincão,28,Sporting CP,CME
+Trincão,29,Sporting CP,CSE
+Trincão,30,Sporting CP,CIE
+Gyokeres,1,Arsenal FC,CMD
+Gyokeres,2,Arsenal FC,CSE
+Gyokeres,3,Arsenal FC,CID
+Gyokeres,4,Arsenal FC,CME
+Gyokeres,5,Arsenal FC,CSD
+Gyokeres,6,Arsenal FC,CSE
+Gyokeres,7,Arsenal FC,CeI
+Gyokeres,8,Arsenal FC,CeI
+Gyokeres,9,Arsenal FC,CSE
+Gyokeres,10,Arsenal FC,CMD
+Gyokeres,11,Arsenal FC,CSD
+Gyokeres,12,Arsenal FC,CeI
+Gyokeres,13,Arsenal FC,CSD
+Gyokeres,14,Arsenal FC,CeI
+Gyokeres,15,Arsenal FC,CeM
+Gyokeres,16,Arsenal FC,CID
+Gyokeres,17,Arsenal FC,CeS
+Gyokeres,18,Arsenal FC,CME
+Gyokeres,19,Arsenal FC,CSE
+Gyokeres,20,Arsenal FC,CID
+Gyokeres,21,Arsenal FC,CID
+Gyokeres,22,Arsenal FC,CSD
+Gyokeres,23,Arsenal FC,CeI
+Gyokeres,24,Arsenal FC,CID
+Gyokeres,25,Arsenal FC,CIE
+Gyokeres,26,Arsenal FC,CMD
+Gyokeres,27,Arsenal FC,CSD
+Gyokeres,28,Arsenal FC,CSE
+Gyokeres,29,Arsenal FC,CID
+Gyokeres,30,Arsenal FC,CID
+de Jong,1,FC Porto,CSD
+de Jong,2,FC Porto,CID
+de Jong,3,FC Porto,CSD
+de Jong,4,FC Porto,CeM
+de Jong,5,FC Porto,CID
+de Jong,6,FC Porto,CeI
+de Jong,7,FC Porto,CID
+de Jong,8,FC Porto,CeI
+de Jong,9,FC Porto,CIE
+de Jong,10,FC Porto,CSD
+de Jong,11,FC Porto,CeM
+de Jong,12,FC Porto,CME
+de Jong,13,FC Porto,CSD
+de Jong,14,FC Porto,CID
+de Jong,15,FC Porto,CMD
+de Jong,16,FC Porto,CID
+de Jong,17,FC Porto,CeI
+de Jong,18,FC Porto,CID
+de Jong,19,FC Porto,CIE
+de Jong,20,FC Porto,CIE
+de Jong,21,FC Porto,CIE
+de Jong,22,FC Porto,CSD
+de Jong,23,FC Porto,CID
+de Jong,24,FC Porto,CeM
+de Jong,25,FC Porto,CeS
+de Jong,26,FC Porto,CeI
+de Jong,27,FC Porto,CSD
+de Jong,28,FC Porto,CID
+de Jong,29,FC Porto,CID
+de Jong,30,FC Porto,CID
+Pepê,1,FC Porto,CSE
+Pepê,2,FC Porto,CMD
+Pepê,3,FC Porto,CID
+Pepê,4,FC Porto,CSE
+Pepê,5,FC Porto,CeM
+Pepê,6,FC Porto,CeI
+Pepê,7,FC Porto,CMD
+Pepê,8,FC Porto,CMD
+Pepê,9,FC Porto,CMD
+Pepê,10,FC Porto,CME
+Pepê,11,FC Porto,CME
+Pepê,12,FC Porto,CIE
+Pepê,13,FC Porto,CIE
+Pepê,14,FC Porto,CeI
+Pepê,15,FC Porto,CID
+Pepê,16,FC Porto,CeM
+Pepê,17,FC Porto,CeM
+Pepê,18,FC Porto,CIE
+Pepê,19,FC Porto,CMD
+Pepê,20,FC Porto,CMD
+Pepê,21,FC Porto,CIE
+Pepê,22,FC Porto,CID
+Pepê,23,FC Porto,CME
+Pepê,24,FC Porto,CME
+Pepê,25,FC Porto,CSE
+Pepê,26,FC Porto,CMD
+Pepê,27,FC Porto,CSE
+Pepê,28,FC Porto,CeM
+Pepê,29,FC Porto,CeM
+Pepê,30,FC Porto,CME

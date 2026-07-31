@@ -1,0 +1,17 @@
+club,country,city,stadium,latitude,longitude,ranking
+Real Madrid,Spain,Madrid,Santiago Bernabéu,40.4531,-3.6883,1
+Manchester City,England,Manchester,Etihad Stadium,53.4831,-2.2004,2
+Bayern Munich,Germany,Munich,Allianz Arena,48.2188,11.6247,3
+Paris Saint-Germain,France,Paris,Parc des Princes,48.8414,2.2530,4
+Liverpool,England,Liverpool,Anfield,53.4308,-2.9608,5
+Barcelona,Spain,Barcelona,Camp Nou,41.3809,2.1228,6
+Juventus,Italy,Turin,Allianz Stadium,45.1096,7.6413,7
+Inter Milan,Italy,Milan,San Siro,45.4781,9.1240,8
+Benfica,Portugal,Lisbon,Estádio da Luz,38.7528,-9.1847,9
+Porto,Portugal,Porto,Estádio do Dragão,41.1615,-8.5839,10
+Ajax,Netherlands,Amsterdam,Johan Cruijff Arena,52.3144,4.9414,11
+Borussia Dortmund,Germany,Dortmund,Signal Iduna Park,51.4926,7.4519,12
+Chelsea,England,London,Stamford Bridge,51.4817,-0.1910,13
+Atletico Madrid,Spain,Madrid,Metropolitano,40.4362,-3.5995,14
+AC Milan,Italy,Milan,San Siro,45.4781,9.1240,15
+Sporting CP,Portugal,Lisbon,Estádio José Alvalade,38.7611,-9.1605,16
